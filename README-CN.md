@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 相关视频
 
 - **介绍视频:** [拥有一个AI语音实时翻译机是什么体验？？【Ai语音交互应用】_bilibili](https://www.bilibili.com/video/BV1SuEtzREV9?spm_id_from=333.788.videopod.sections&vd_source=02a465997504a99b4366d967ab71e479)
