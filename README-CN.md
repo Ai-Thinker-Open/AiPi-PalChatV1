@@ -144,3 +144,5 @@ AiPi-PalChatV1 是一款接入了 小智 AI 智能体 的微型语音交互开�
 对设备说：`“你好小安”`，设备回复`“我在”`，即为唤醒。
 ### 4.3 连续对话
 唤醒之后，即可和设备进行连续对话了。
+
+## 5. 详细资料请到：[AiPi-PalChatV1 使用指南](https://fcniufr8ibx1.feishu.cn/docx/KMkcdhnSnoG0JIxwbx3cZGTZnyd?from=from_copylink)

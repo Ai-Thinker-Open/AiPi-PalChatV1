@@ -148,3 +148,5 @@ Wake up the device by saying ``Hello Ani`` and the device replies ``I am here``.
 ### 4.3 Continuous dialogue
 After waking up, you can have a continuous dialogue with the device.
 *** Translated with www.DeepL.com/Translator (free version) ***
+
+## 5. For detailed information, please go to：[AiPi-PalChatV1 Guidelines for use](https://fcniufr8ibx1.feishu.cn/docx/KMkcdhnSnoG0JIxwbx3cZGTZnyd?from=from_copylink)
