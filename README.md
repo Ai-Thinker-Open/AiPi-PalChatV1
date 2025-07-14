@@ -46,7 +46,19 @@ AiPi-PalChatV1 is a miniature voice interaction development board with access to
 
 ## Optional AI models
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex !important; gap: 20px !important; flex-wrap: wrap !important; justify-content: center !important;">
+  <div style="flex: 1 !important; min-width: 200px !important; max-width: 300px !important;">
+    <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1 !important; min-width: 200px !important; max-width: 300px !important;">
+    <img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1 !important; min-width: 200px !important; max-width: 300px !important;">
+    <img src="./4.Docs/img/doubao.png" alt="doubao" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 200px; max-width: 300px;">
 	<img src="./4.Docs/img/Qwan.png" alt="QWen" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
