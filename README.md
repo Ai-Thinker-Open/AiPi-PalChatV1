@@ -58,6 +58,9 @@ Use the Type-C cable to connect to the Type-C port of the device, turn the "Powe
 	- Say：`“我是你的人工智能语音助手，请对我说，你好小安，开始配网”`
   - Network Configured：
 	- Say：`”我是你的人工智能语音助手，请对我说，你好小安，唤醒我“`
+
+> English tones will be updated to the SDK.
+
 #### 1.2 Battery Charging
 If the battery has been inserted, after the Type-C cable is plugged in, the charging indicator lights up (blue) means it is charging, and goes off means it is full, if the charging indicator flashes, it means the battery is not inserted.
 
