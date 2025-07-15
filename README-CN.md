@@ -1,4 +1,3 @@
-[![中文](https://img.shields.io/badge/语言-中文-blue.svg)](README-CN.md)
 [![English](https://img.shields.io/badge/Language-English-green.svg)](README.md)
 <h1 align="center">AiPi-PalChatV1:AI智能助手</h1>
 <div align="center">
