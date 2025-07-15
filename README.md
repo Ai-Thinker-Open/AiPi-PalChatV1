@@ -46,11 +46,8 @@ AiPi-PalChatV1 is a miniature voice interaction development board with access to
 
 ## Optional AI models
 
-|  |  |  |
+| <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> |<img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width:300%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> | <img src="./4.Docs/img/doubao.png" alt="doubao" style="width:60%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> |
 | --- | --- | --- |
-| <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> | 
-<img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width:300%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> | <img src="./4.Docs/img/doubao.png" alt="doubao" style="width:60%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> |
-
 
 ## Instructions for use
 ### 1. Power On and Charge
