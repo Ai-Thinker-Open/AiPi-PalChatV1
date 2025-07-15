@@ -43,17 +43,8 @@ AiPi-PalChatV1 是一款接入了 小智 AI 智能体 的微型语音交互开�
 
 ## 可选AI模型
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 200px; max-width: 300px;">
-    <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 300px;">
-    <img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 300px;">
-    <img src="./4.Docs/img/doubao.png" alt="doubao" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
+| <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> |<img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> | <img src="./4.Docs/img/doubao.png" alt="doubao" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> |
+| --- | --- | --- |
 
 ## 使用说明
 ## 1. 上电开机及充电
