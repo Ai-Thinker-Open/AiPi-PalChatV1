@@ -46,29 +46,11 @@ AiPi-PalChatV1 is a miniature voice interaction development board with access to
 
 ## Optional AI models
 
-<div style="display: flex !important; gap: 20px !important; flex-wrap: wrap !important; justify-content: center !important;">
-  <div style="flex: 1 !important; min-width: 200px !important; max-width: 300px !important;">
-    <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1 !important; min-width: 200px !important; max-width: 300px !important;">
-    <img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1 !important; min-width: 200px !important; max-width: 300px !important;">
-    <img src="./4.Docs/img/doubao.png" alt="doubao" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
+|  |  |  |
+| --- | --- | --- |
+| <img src="./4.Docs/img/Qwan.png" alt="QWen" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> | 
+<img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width:300%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> | <img src="./4.Docs/img/doubao.png" alt="doubao" style="width:60%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1);"> |
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 200px; max-width: 300px;">
-	<img src="./4.Docs/img/Qwan.png" alt="QWen" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 300px;">
-	<img src="./4.Docs/img/DeepSeek.png" alt="DeepSeek" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 300px;">
-	<img src="./4.Docs/img/doubao.png" alt="doubao" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
 
 ## Instructions for use
 ### 1. Power On and Charge
@@ -131,7 +113,7 @@ After powering on the device, use the voice command: **`"Hello An, start network
 ### 3. Device Binding and Unbinding
 #### 3.1 Register and Login: [Ai AI Shortcut Portal](https://xiaozhi.me/)
 
-On the `Ai Hardware Intelligence Body`page of the Ensync IOT applet, select the device with the model number `AiPi-PalChatV1` and enter the device's detail page, click the Copy URL button, open your mobile phone's browser and paste the URL, then you can enter the ``Smart AI''.After pasting the URL, you can enter the `"AiPi-PalChat AI"` configuration page.
+On the `Ai Hardware Intelligence Body`page of the Ensync IOT applet, select the device with the model number `AiPi-PalChatV1` and enter the device's detail page, click the Copy URL button, open your mobile phone's browser and paste the URL, then you can enter the `Smart AI''.After pasting the URL, you can enter the `"AiPi-PalChat AI"` configuration page.
 1. Click ``Console'' to trigger login.
 	- Trigger the login, enter the corresponding user name and password.
 	- If you don't have an account, please register.
@@ -148,15 +130,15 @@ You can use the default smartphone `Taiwan Girlfriend` to add devices, the steps
 ![alt text](4.Docs/img/add_code.png)
 ### 3.4 Unbinding the device
 
-If the device exists, you can ``SmartBody Configuration Page`` click on the device to enter the device management page, slide to the rightmost ``Options`` item, and click Unbind to unbind the device.
+If the device exists, you can `SmartBody Configuration Page` click on the device to enter the device management page, slide to the rightmost `Options` item, and click Unbind to unbind the device.
 ### 3.5 Configuring an Intelligent Body
 Click `Configure Role` for personalised configuration, and configure the `Nickname`, `Role Tone`, `Language Preference`, `Language Model`, etc. of the smart body according to your own preferences.
 
 ## 4. Starting a dialogue
 ## 4.1 Repowering
-After powering up the device, wait for the ``Networking Successful`` prompt before waking up the device.
+After powering up the device, wait for the `Networking Successful` prompt before waking up the device.
 ### 4.2 Wake up by voice
-Wake up the device by saying ``Hello Ani`` and the device replies ``I am here``.
+Wake up the device by saying `Hello Ani` and the device replies `I am here`.
 ### 4.3 Continuous dialogue
 After waking up, you can have a continuous dialogue with the device.
 *** Translated with www.DeepL.com/Translator (free version) ***
